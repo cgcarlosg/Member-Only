@@ -27,6 +27,7 @@ Navigate to the folder you cloned the git repository and to run our project type
 GitHub: @cgcarlosg 
 Twitter: @cgcarlosg1 
 LinkedIn: @carlosalbeniogutierrez
+
 #
 ## Author 2
 👤 Carlos Robles
@@ -34,6 +35,7 @@ LinkedIn: @carlosalbeniogutierrez
 GitHub: @carlos-ssh 
 Twitter:  aom.robles
 LinkedIn: @carlos-ssh
+
 #
  ## 📝 License 
 - This project is MIT licensed.
