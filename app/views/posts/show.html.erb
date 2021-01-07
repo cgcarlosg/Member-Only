@@ -1,9 +1,26 @@
 <p id="notice"><%= notice %></p>
 
 <p>
-  <strong>Post:</strong>
-  <%= @post.post %>
+  <strong></strong>
+  
 </p>
 
-<%= link_to 'Edit', edit_post_path(@post) %> |
-<%= link_to 'Back', posts_path %>
+
+
+<div class="section">
+	<div class="container is-centered box">
+		<div class="columns is-center">
+			<div class="column is-half">
+				<h1 class="title">Post:</h1>
+					
+          <%= @post.post %>
+			</div>
+		</div>
+      <div class="field is-grouped">
+        <p class="control is-center">
+          <%= link_to 'Back', posts_path, class: "button is-dark" %>
+          <%= link_to 'Edit', edit_post_path(@post), class: "button is-success" %>
+        </p>
+      </div>
+	</div>
+</div>
