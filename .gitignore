@@ -10,7 +10,7 @@ capybara-*.html
 *.orig
 rerun.txt
 pickle-email-*.html
-
+node_modules/
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
