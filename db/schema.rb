@@ -17,7 +17,13 @@ ActiveRecord::Schema.define(version: 2021_01_07_152203) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.integer "user_id"
-    t.integer "user_ids"
+  end
+
+  create_table "tweeets", force: :cascade do |t|
+    t.text "tweeet"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.integer "user_id"
   end
 
   create_table "users", force: :cascade do |t|
