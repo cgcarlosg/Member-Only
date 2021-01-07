@@ -3,6 +3,9 @@
     <div class="columns">
     	<% if user_signed_in? %>
     		<%= render 'profile' %>
+      <% else %>
+    		<%= render 'without' %>
+        
       <% end %>
        <%= render 'feed' %>
     </div>

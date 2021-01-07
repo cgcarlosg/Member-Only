@@ -1,0 +1,13 @@
+<div class="column is-half">
+    <% @posts.each do | post | %>
+        <div class="box">
+            <article class="media">
+                <div class="media-content">
+                    <div class="content">
+                        <p class="column"><%= post.post %></p>
+                    </div>
+                </div>
+            </article>
+        </div>
+    <% end %>
+</div>
