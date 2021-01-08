@@ -1,7 +1,7 @@
 # Getting Started
 ##
 
-This project was created to understand more about Associations in Rails.
+This project was created to understand more about  Authentication using Devise, User sessions and cookies
 
 To get a local copy up and running follow these simple example steps.
 
