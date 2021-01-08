@@ -1,9 +1,23 @@
 <%= simple_form_for(@post) do |f| %>
-<%= f.error_notification %>
-<div class="field">
-  <div class="control">
-    <%= f.input :post, label: "Post about it", input_html: { class: "textarea "}, wrapper: false, label_html: {class: "label"}, placeholder: "Compose a new post...", autofocus: true %>
+  <%= f.error_notification %>
+  <div class="field">
+    <div class="control">
+      <%= f.input :title,
+            label: false,
+            input_html: { class: "textfield input is-normal" },
+            wrapper: false,
+            placeholder: "Post title",
+            autofocus: true %>
+      <br />
+      <br />
+      <%= f.input :body,
+            label: false,
+            input_html: { class: "textarea input is-small" },
+            wrapper: false,
+            placeholder: "Write here",
+            autofocus: false %>
+    </div>
   </div>
-</div>
-<%= f.button :submit, class: "button is-success" %>
-<% end %>
+  <%= f.button :submit, class: "button is-success" %>
+  <%= link_to 'Back', posts_path, class: "button is-success" %>
+  <% end %>
