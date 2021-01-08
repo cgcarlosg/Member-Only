@@ -1,13 +1,13 @@
 # Getting Started
 ##
 
-This project was created to understand more about Authentication using Devise, User sessions and cookies
+This project was created to understand more about Associations in Rails.
 
 To get a local copy up and running follow these simple example steps.
 
 ## Prerequisites
 #
-Computer running Mac OS, Windows, or Linux Ubuntu. Internet browser: Firefox, Google Chrome, Opera...
+Computer running Mac OS, Windows, or Linux Ubuntu. Internet browser: Firefox, Google Chrome, etc
 #
 - Install Ruby
 
