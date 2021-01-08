@@ -1,10 +1,17 @@
+
 <div class="column is-half">
+    <h1 class="title is-4">Latest Posts:</h1>
     <% @posts.each do | post | %>
         <div class="box">
             <article class="media">
                 <div class="media-content">
                     <div class="content">
-                        <p class="column"><%= post.post %></p>
+                            <strong>Title:</strong>
+                            <br>
+                            <%= post.title %>
+                        <hr>
+                            <strong>Post:</strong>
+                                <%= post.body %>
                     </div>
                 </div>
             </article>

@@ -3,10 +3,11 @@
     <div class="columns">
     	<% if user_signed_in? %>
     		<%= render 'profile' %>
+        <%= render 'feed' %>
       <% else %>
     		<%= render 'without' %>
       <% end %>
-       <%= render 'feed' %>
+       
     </div>
   </div>
 </section>

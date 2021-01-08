@@ -1,19 +1,13 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong></strong>
-  
-</p>
-
-
-
 <div class="section">
 	<div class="container is-centered box">
 		<div class="columns is-center">
 			<div class="column is-half">
 				<h1 class="title">Post:</h1>
 					
-        <p class="title is-4"><%= post.title, post %></p>
+        <p class="title is-4"><%= @post.title %></p>
+        <p class="title is-4"><%= @post.body %></p>
 			</div>
 		</div>
       <div class="field is-grouped">
