@@ -41,7 +41,6 @@ LinkedIn: @carlos-ssh
 - This project is MIT licensed.
 #
 
-
 ## 🤝 Contribution
 Contributions, issues, and feature requests are welcome!
 
