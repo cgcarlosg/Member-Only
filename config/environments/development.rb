@@ -24,17 +24,11 @@ Rails.application.configure do
     config.public_file_server.headers = {
       'Cache-Control' => "public, max-age=#{2.days.to_i}"
     }
-
   else
     config.action_controller.perform_caching = false
 
     config.cache_store = :null_store
   end
-
-  config.action_mailer.default_url_options = {
-    host: 'localhost', 
-    port: 3000
-  }
 
   # Store uploaded files on the local file system (see config/storage.yml for options).
   config.active_storage.service = :local
@@ -73,7 +67,7 @@ Rails.application.configure do
   # Annotate rendered view with file names.
   # config.action_view.annotate_rendered_view_with_filenames = true
 
-  # Use an evented file watcher to asynchronously detect changes in source code, 
+  # Use an evented file watcher to asynchronously detect changes in source code,
   # routes, locales, etc. This feature depends on the listen gem.
   config.file_watcher = ActiveSupport::EventedFileUpdateChecker
 
