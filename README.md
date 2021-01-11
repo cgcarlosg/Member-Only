@@ -16,10 +16,13 @@ Computer running Mac OS, Windows, or Linux Ubuntu. Internet browser: Firefox, Go
 After installing Ruby, you need to install bundler to be able to use bundle install to install gems and dependancies for this project.
 #
 ## Setup
-- Download the code or copy the git repository to your computer, type https://github.com/cgcarlosg/Member-Only.git in your terminal
+- Download the code or copy the git repository to your computer
+- type https://github.com/cgcarlosg/Member-Only.git in your terminal
 - Type cd Member-Only in the terminal.
+- Type bundle install
+- Type yarn install
 - Type rails db:migrate
-- Run rails server to start the server for the application.
+- Run with the comand: rails s to start the server.
 
 #
 ## Usage
