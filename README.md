@@ -5,6 +5,8 @@ This project was created to understand more about  Authentication using Devise, 
 
 To get a local copy up and running follow these simple example steps.
 
+![project](app\assets\images\member-only.jpg)
+
 ## Prerequisites
 #
 Computer running Mac OS, Windows, or Linux Ubuntu. Internet browser: Firefox, Google Chrome, etc
@@ -31,17 +33,17 @@ Navigate to the folder you cloned the git repository and to run our project type
 ## Author 1
 👤  Carlos Gutierrez
 
-GitHub: @cgcarlosg 
-Twitter: @cgcarlosg1 
-LinkedIn: @carlosalbeniogutierrez
+GitHub:  [@cgcarlosg](https://github.com/cgcarlosg)
+Twitter: [@cgcarlosg1](https://twitter.com/cgcarlosg1) 
+LinkedIn: [@carlosalbeniogutierrez](www.linkedin.com/in/carlosalbeniogutierrez)
 
 #
 ## Author 2
 👤 Carlos Robles
 
-GitHub: @carlos-ssh 
-Twitter:  aom.robles
-LinkedIn: @carlos-ssh
+GitHub: [@carlos-ssh](https://github.com/carlos-ssh)
+Twitter: [@aom.robles](https://twitter.com/aom.robles) 
+LinkedIn: [@carlos-ssh](www.linkedin.com/in/carlos-ssh)
 
 #
  ## 📝 License 
@@ -50,6 +52,14 @@ LinkedIn: @carlos-ssh
 
 ## 🤝 Contribution
 Contributions, issues, and feature requests are welcome!
+#
+
+## Acknowledgements
+- Microverse
+- The Odin Project: Sessions, Cookies and Authentication
+- Youtube Tutorials: Andy Leverenz Web-Crunch
+- Beter README Templates
+- Rails Guides
 
 #
 ## ⭐ Show your support
