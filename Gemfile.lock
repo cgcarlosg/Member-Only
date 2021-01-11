@@ -62,9 +62,6 @@ GEM
       zeitwerk (~> 2.3)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    apparition (0.6.0)
-      capybara (~> 3.13, < 4)
-      websocket-driver (>= 0.6.5)
     ast (2.4.1)
     bcrypt (3.1.16)
     better_errors (2.9.1)
@@ -286,7 +283,6 @@ PLATFORMS
   x86_64-darwin-18
 
 DEPENDENCIES
-  apparition (~> 0.6.0)
   better_errors (~> 2.9, >= 2.9.1)
   bootsnap (>= 1.4.4)
   bulma-rails (~> 0.9.1)
