@@ -33,17 +33,17 @@ Navigate to the folder you cloned the git repository and to run our project type
 ## Author 1
 👤  Carlos Gutierrez
 
-GitHub:  [@cgcarlosg](https://github.com/cgcarlosg)
-Twitter: [@cgcarlosg1](https://twitter.com/cgcarlosg1) 
-LinkedIn: [@carlosalbeniogutierrez](www.linkedin.com/in/carlosalbeniogutierrez)
+- GitHub:  [@cgcarlosg](https://github.com/cgcarlosg)
+- Twitter: [@cgcarlosg1](https://twitter.com/cgcarlosg1)
+- LinkedIn: [@carlosalbeniogutierrez](www.linkedin.com/in/carlosalbeniogutierrez)
 
 #
 ## Author 2
 👤 Carlos Robles
 
-GitHub: [@carlos-ssh](https://github.com/carlos-ssh)
-Twitter: [@aom.robles](https://twitter.com/aom.robles) 
-LinkedIn: [@carlos-ssh](www.linkedin.com/in/carlos-ssh)
+- GitHub: [@carlos-ssh](https://github.com/carlos-ssh)
+- Twitter: [@aom.robles](https://twitter.com/aom.robles)
+- LinkedIn: [@carlos-ssh](www.linkedin.com/in/carlos-ssh)
 
 #
  ## 📝 License 
