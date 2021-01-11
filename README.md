@@ -5,7 +5,7 @@ This project was created to understand more about  Authentication using Devise, 
 
 To get a local copy up and running follow these simple example steps.
 
-![project](app\assets\images\member-only.jpg)
+![project](https://github.com/cgcarlosg/Member-Only/blob/feature/app/assets/images/member-only.jpg)
 
 ## Prerequisites
 #
